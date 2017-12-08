@@ -23,7 +23,8 @@ Specialization: Physics and Mathematics
 
 **2015:** *Guest Lecturer, Atmosphere, Oceans and Climate*  
 GG5113, Paleoceanography and Paleoclimatology I, 6 lectures  
-Department of Geological Sciences, Stockholm University   
+Department of Geological Sciences, Stockholm University
+
 **2011-2013:** *Tutor, Atmosphere and Ocean Dynamics*   
 Climate Change Research Centre, UNSW  
 **2013:** MSCI3001, Physical Oceanography  

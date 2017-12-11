@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Website"
+title:  "New Website Created"
 date:   2017-12-08 15:11:20 +0100
 categories: jekyll update
 ---

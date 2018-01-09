@@ -9,7 +9,7 @@ and [ResearcherID](http://www.researcherid.com/rid/F-4564-2016)
 
 ## Article In Review
 
-Hutchinson, D. K., A. M. de Boer, H. K. Coxall, R. Caballero, J. Nilsson, and M. Baatsen, 2018: Climate sensitivity and meridional overturning circulation in the late Eocene using GFDL CM2.1, *Clim. Past Discuss.*, **in review**, doi: [10.5194/cp-2017-161](https://doi.org/10.5194/cp-2017-161)
+**Hutchinson, D. K.**, A. M. de Boer, H. K. Coxall, R. Caballero, J. Nilsson, and M. Baatsen, 2018: Climate sensitivity and meridional overturning circulation in the late Eocene using GFDL CM2.1, *Clim. Past Discuss.*, **in review**, doi: [10.5194/cp-2017-161](https://doi.org/10.5194/cp-2017-161)
 
 ## Journal Articles
 

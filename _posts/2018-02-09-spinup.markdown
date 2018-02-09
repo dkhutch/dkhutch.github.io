@@ -1,4 +1,9 @@
-# It takes forever to spin up a climate model
+---
+layout: post
+title:  "It takes forever to spin up a climate model"
+date:   2018-02-09 15:00:00 +0100
+categories: jekyll update
+---
 
 Climate models take thousands of years to equilibrate. This is a problem that has plagued ocean and climate modellers for decades, and there is no easy solution. To spin up a climate model means to initiate the ocean-atmosphere-land-ice system with some initial values, and then let it solve its physical equations of motion over and over until it reaches a steady state. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Growing out of Impostor Syndrome
-date: 2018-04-17 09:00:00 +0100
+date: 2018-04-16 17:00:00 +0100
 categories: jekyll update
 ---
 As a researcher in an fiercely competitive academic environment, you hear a lot of discussion about impostor syndrome. This is a mindset where success makes you feel like a fake. It's when your internal belief system tells you that you are not worthy of your position, and sooner or later your colleagues and the world will realise that you are not up to the job. In many cases it leads to self-sabotage. Like not grabbing opportunities or applying for jobs and grants because you believe yourself to be inferior. 

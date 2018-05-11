@@ -2,6 +2,7 @@
 layout: post
 title: "Visit to Utrecht"
 date: 2018-05-11 13:08:00 +0100
+categories: jekyll update
 ---
 Just had a really nice 1 week visit to the Institute for Marine and Atmospheric Research, Utrecht (IMAU), working on collaborations with Michiel Baatsen and Anna von der Heydt. I really enjoyed the stay, and the whole group was really welcoming. Had my first taste of commuting to work by bicycle, Dutch-style. This was an eye-opener: heavy bike traffic, requiring constant vigilance and consideration of the multiple streams of riders crammed into narrow lanes. You definitely feel a safety in numbers that is hard to replicate anywhere else in the world.
 

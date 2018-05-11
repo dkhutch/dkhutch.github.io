@@ -7,11 +7,9 @@ permalink: /publications/
 Links to my [Google Scholar Profile](https://scholar.google.se/citations?user=AuF7B88AAAAJ&hl=en&oi=sra)
 and [ResearcherID](http://www.researcherid.com/rid/F-4564-2016)
 
-## Article In Review
-
-**Hutchinson, D. K.**, A. M. de Boer, H. K. Coxall, R. Caballero, J. Nilsson, and M. Baatsen, 2018: Climate sensitivity and meridional overturning circulation in the late Eocene using GFDL CM2.1, *Clim. Past Discuss.*, **in review**, doi: [10.5194/cp-2017-161](https://doi.org/10.5194/cp-2017-161)
-
 ## Journal Articles
+
+10. **Hutchinson, D. K.**, A. M. de Boer, H. K. Coxall, R. Caballero, J. Nilsson and M. Baatsen, 2018: Climate sensitivity and meridional overturning circulation in the late Eocene using GFDL CM2.1, *Clim. Past*, **in press**, doi: [10.5194/cp-2017-161](https://doi.org/10.5194/cp-2017-161)
 
 9. Turney, C. S. M., R. T. Jones, S. J. Phipps, Z. Thomas, A. Hogg, A. P. Kershaw, C. J. Fogwill, J. Palmer, C. Bronk Ramsey, F. Adolphi, R. Muscheler, K. A. Hughen, R. A. Staff, M. Grosvenor, N. R. Golledge, S. Olander Rasmussen, **D. K. Hutchinson**, S. Haberle, A. Lorrey, G. Boswijk and A. Cooper, 2017: Rapid Global Ocean-Atmosphere Response to Southern Ocean Freshening During the Last Glacial. *Nature Communications*, **8**, 250. doi: [10.1038/s41467-017-00577-6](http://dx.doi.org/10.1038/s41467-017-00577-6)
 
@@ -34,11 +32,13 @@ and [ResearcherID](http://www.researcherid.com/rid/F-4564-2016)
 
 <br><br>
 
-## Other Publications
+## Theses
 
 **PhD Thesis:** Interhemispheric Asymmetry of Global Warming: The Role of Ocean Dynamics. University of New South Wales, 2015. [Title page](http://handle.unsw.edu.au/1959.4/55380)
 
 **Honours Thesis:** Wind Stress Parameterisation in the Southern Ocean, Australian National University, 2008. [Title page](http://hdl.handle.net/1885/47691)
+
+## Other Publications
 
 Hutchinson, D. K., I. C. Roach and M. T. Costelloe, 2010: Depth of investigation grid for regional airborne electromagnetic surveys. *Preview*, **145**, 38-39. Magazine of the Australian Society for Exploration Geophysicists. [Online article](http://www.publish.csiro.au/pv/pdf/PVv2010n145#page=40)
 

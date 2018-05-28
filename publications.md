@@ -9,7 +9,7 @@ and [ResearcherID](http://www.researcherid.com/rid/F-4564-2016)
 
 ## Article in Review
 
-Rainsley, E., C. S. M. Turney, N. R. Golledge, J. M. Wilmshurst, M. S. McGlone, A. G. Hogg, B. Li, Z. A. Thomas, R. Roberts, R. T. Jones, J. G. Palmer, V. Flett, G. de Wet, **D. K. Hutchinson**, M. J. Lipson, P. Fenwick, B. R. Hines, U. Binetti, and C. J. Fogwill, 2018: Pleistocene glacial history of the New Zealand subantarctic islands, *Clim. Past Discuss.*, **in review** doi: [10.5194/cp-2018-52](https://doi.org/10.5194/cp-2018-52)
+Rainsley, E., C. S. M. Turney, N. R. Golledge, J. M. Wilmshurst, M. S. McGlone, A. G. Hogg, B. Li, Z. A. Thomas, R. Roberts, R. T. Jones, J. G. Palmer, V. Flett, G. de Wet, **D. K. Hutchinson**, M. J. Lipson, P. Fenwick, B. R. Hines, U. Binetti, and C. J. Fogwill, 2018: Pleistocene glacial history of the New Zealand subantarctic islands, *Clim. Past Discuss.*, **in review**, doi: [10.5194/cp-2018-52](https://doi.org/10.5194/cp-2018-52)
 
 ## Journal Articles
 

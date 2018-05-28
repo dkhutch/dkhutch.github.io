@@ -7,6 +7,10 @@ permalink: /publications/
 Links to my [Google Scholar Profile](https://scholar.google.se/citations?user=AuF7B88AAAAJ&hl=en&oi=sra)
 and [ResearcherID](http://www.researcherid.com/rid/F-4564-2016)
 
+## Article in Review
+
+Rainsley, E., C. S. M. Turney, N. R. Golledge, J. M. Wilmshurst, M. S. McGlone, A. G. Hogg, B. Li, Z. A. Thomas, R. Roberts, R. T. Jones, J. G. Palmer, V. Flett, G. de Wet, **D. K. Hutchinson**, M. J. Lipson, P. Fenwick, B. R. Hines, U. Binetti, and C. J. Fogwill, 2018: Pleistocene glacial history of the New Zealand subantarctic islands, *Clim. Past Discuss.*, **in review** doi: [10.5194/cp-2018-52](https://doi.org/10.5194/cp-2018-52)
+
 ## Journal Articles
 
 10. **Hutchinson, D. K.**, A. M. de Boer, H. K. Coxall, R. Caballero, J. Nilsson and M. Baatsen, 2018: Climate sensitivity and meridional overturning circulation in the late Eocene using GFDL CM2.1, *Clim. Past*, **in press**, doi: [10.5194/cp-2017-161](https://doi.org/10.5194/cp-2017-161)

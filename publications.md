@@ -13,7 +13,7 @@ Rainsley, E., C. S. M. Turney, N. R. Golledge, J. M. Wilmshurst, M. S. McGlone, 
 
 ## Journal Articles
 
-10. **Hutchinson, D. K.**, A. M. de Boer, H. K. Coxall, R. Caballero, J. Nilsson and M. Baatsen, 2018: Climate sensitivity and meridional overturning circulation in the late Eocene using GFDL CM2.1, *Clim. Past*, **in press**, doi: [10.5194/cp-2017-161](https://doi.org/10.5194/cp-2017-161)
+10. **Hutchinson, D. K.**, A. M. de Boer, H. K. Coxall, R. Caballero, J. Nilsson and M. Baatsen, 2018: Climate sensitivity and meridional overturning circulation in the late Eocene using GFDL CM2.1, *Clim. Past*, **14**, 789-810 doi: [10.5194/cp-14-789-2018](https://doi.org/10.5194/cp-14-789-2018)
 
 9. Turney, C. S. M., R. T. Jones, S. J. Phipps, Z. Thomas, A. Hogg, A. P. Kershaw, C. J. Fogwill, J. Palmer, C. Bronk Ramsey, F. Adolphi, R. Muscheler, K. A. Hughen, R. A. Staff, M. Grosvenor, N. R. Golledge, S. Olander Rasmussen, **D. K. Hutchinson**, S. Haberle, A. Lorrey, G. Boswijk and A. Cooper, 2017: Rapid Global Ocean-Atmosphere Response to Southern Ocean Freshening During the Last Glacial. *Nature Communications*, **8**, 250. doi: [10.1038/s41467-017-00577-6](http://dx.doi.org/10.1038/s41467-017-00577-6)
 

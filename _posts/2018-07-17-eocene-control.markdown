@@ -10,7 +10,7 @@ We have recently published a new set of [climate model simulations for the late 
 
 The ocean has deep water forming in the North Pacific and the Southern Ocean. This is very different from the modern ocean, where northern sinking occurs in the North Atlantic instead of the North Pacific. This change is due to freshwater forcing at the surface: a combination of precipitation, evaporation and runoff. These factors combine with changes to the paleogeography to make the North Pacific saltier than today. This kind of sinking pattern is consistent Eocene proxy records, as identified by [Neodymium tracers](http://dx.doi.org/10.1002/2013PA002535). The very fresh Arctic Ocean of around 20 psu is also consistent with [Eocene proxy information](http://dx.doi.org/10.1038/nature04692), although it gets more unclear around the Eocene-Oligocene transition.
 
-<img src="/img/Fig07_moc.pdf" width="90%" align="centre">
+<img src="/img/Fig07_moc.png" width="90%" align="centre">
 
 This model was a long time coming. It took something like two years of experimenting, testing, failing and fixing things to eventually get publishable results. (Two years was the entire length of my original postdoc position.) The simulations themselves are run for 6500 years and are still not in equilibrium. This is a perennial issue, but we are trying to examine it thoroughly and hopefully come up with faster ways of reaching equilibrium next time!
 

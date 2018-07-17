@@ -8,7 +8,7 @@ We have recently published a new set of [climate model simulations for the late 
 
 <img src="/img/EOT_ctl_state.png" width="90%" align="centre">
 
-The ocean has deep water forming in the North Pacific and the Southern Ocean. This is very different from the modern ocean, where northern sinking occurs in the North Atlantic instead of the North Pacific. This change is due to freshwater forcing at the surface: a combination of precipitation, evaporation and runoff. These factors combine with changes to the paleogeography to make the North Pacific saltier than today. This kind of sinking pattern is consistent Eocene proxy records, as identified by [Neodymium tracers](http://dx.doi.org/10.1002/2013PA002535). The very fresh Arctic Ocean of around 20 psu is also consistent with [Eocene proxy information](http://dx.doi.org/10.1038/nature04692), although it gets more unclear around the Eocene-Oligocene transition.
+The ocean has deep water forming in the North Pacific and the Southern Ocean. This is very different from the modern ocean, where northern sinking occurs in the North Atlantic instead of the North Pacific. This change is due to freshwater forcing at the surface: a combination of precipitation, evaporation and runoff. These factors combine with changes to the paleogeography to make the North Pacific saltier than today. This sinking pattern is consistent with Eocene proxy records of deep water formation, identified by [Neodymium tracers](http://dx.doi.org/10.1002/2013PA002535). The very fresh Arctic Ocean of around 20 psu is also consistent with [Eocene proxy information](http://dx.doi.org/10.1038/nature04692), although it gets more unclear around the Eocene-Oligocene transition.
 
 <img src="/img/Fig07_moc.png" width="90%" align="centre">
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Growing out of Impostor Syndrome
+title: Growing out of impostor syndrome
 date: 2018-04-16 17:00:00 +0100
 categories: jekyll update
 ---
@@ -16,4 +16,4 @@ The surprising news to me was a simple difference in mindset that separated impo
 
 It struck me that this is an incredibly simple change in perspective. It's so simple that it seems like it shouldn't even matter. But when you think about it, it makes a lot of sense. If you feel like your intelligence is fixed, that you'll never be any smarter than you are now, then a failure will seem like an insurmountable barrier (if you aren't smart enough now, then you'll never be). If you think your intelligence can grow, then even if you really suck at something now, you may one day be able to master it. 
 
-It's actually a really exciting idea to think that I could be more intelligent when I'm 40 or 50 than when I was 25 or 30. This certainly runs counter to what I believed. I learned at school that your brain power is strongest when you're young, peaks at about 25 and then slowly wanes. I thought that getting older would bring more experience and knowledge, but not intelligence. But if it's true, and we can all get smarter as get older... That would be really cool. 
+It's actually a really exciting idea to think that I could be more intelligent when I'm 40 or 50 than when I was 25 or 30. This certainly runs counter to what I believed. I learned at school that your brain power is strongest when you're young, peaks at about 25 and then slowly wanes. I thought that getting older would bring more experience and knowledge, but not intelligence. But if it's true, and we can all get smarter as we get older... That would be really cool. 

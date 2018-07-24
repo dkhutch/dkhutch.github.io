@@ -2,7 +2,7 @@
 layout: post
 title:  "First grant proposal"
 date:   2018-04-16 15:30:00 +0100
-categories: jekyll update
+categories: blog paleoclimate
 ---
 
 I just submitted a proposal for a Formas mobility grant. This is my first ever grant proposal, so it's a big step forward for me. If successful this would give me 3 years of postdoctoral funding, including 18 months on a visiting position in Bristol, and 18 months in Stockholm. Developing a thorough research plan for 3 years is a great exercise, and one that definitely does not come naturally to me. It's very different to writing a paper, because you don't have any results yet, and it's about anticipating what will be a breakthrough in the future, and creating an exciting path towards discovery. 

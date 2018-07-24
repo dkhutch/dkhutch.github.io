@@ -2,7 +2,7 @@
 layout: post
 title: "A new model of the late Eocene"
 date: 2018-07-17 11:00:00
-categories: jekyll update
+categories: blog paleoclimate
 ---
 We have recently published a new set of [climate model simulations for the late Eocene](https://doi.org/10.5194/cp-2018-52). This model uses paleogeography and boundary conditions from 38 million years ago, just before the Eocene-Oligocene transition. We found that under these boundary conditions, the Arctic Ocean was very fresh at the surface. This fresh water spilled over into the North Atlantic, making it very light and unable to form deep water masses. 
 

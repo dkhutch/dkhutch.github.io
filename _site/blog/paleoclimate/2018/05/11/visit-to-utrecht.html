@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>It takes forever to spin up a climate model</title>
-  <meta name="description" content="Climate models take thousands of years to equilibrate. This is a problem that has plagued ocean and climate modellers for decades, and there is no easy solut...">
+  <title>Visit to Utrecht</title>
+  <meta name="description" content="Just had a really nice 1 week visit to the Institute for Marine and Atmospheric Research, Utrecht (IMAU), working on collaborations with Michiel Baatsen and ...">
 
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/jekyll/update/2018/02/09/spinup.html">
+  <link rel="canonical" href="http://localhost:4000/blog/paleoclimate/2018/05/11/visit-to-utrecht.html">
   <link rel="alternate" type="application/rss+xml" title="David Hutchinson" href="/feed.xml">
   
   
@@ -80,29 +80,24 @@
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">It takes forever to spin up a climate model</h1>
+    <h1 class="post-title" itemprop="name headline">Visit to Utrecht</h1>
     <p class="post-meta">
-      <time datetime="2018-02-09T15:00:00+01:00" itemprop="datePublished">
+      <time datetime="2018-05-11T14:08:00+02:00" itemprop="datePublished">
         
-        Feb 9, 2018
+        May 11, 2018
       </time>
       </p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    <p>Climate models take thousands of years to equilibrate. This is a problem that has plagued ocean and climate modellers for decades, and there is no easy solution. To spin up a climate model means to initiate the ocean-atmosphere-land-ice system with some initial values, and then let it solve its physical equations of motion over and over until it reaches a steady state.</p>
+    <p>Just had a really nice 1 week visit to the Institute for Marine and Atmospheric Research, Utrecht (IMAU), working on collaborations with Michiel Baatsen and Anna von der Heydt. I really enjoyed the stay, and the whole group was really welcoming. Had my first taste of commuting to work by bicycle, Dutch-style. This was an eye-opener: heavy bike traffic, requiring constant vigilance and consideration of the multiple streams of riders crammed into narrow lanes. You definitely feel a safety in numbers that is hard to replicate anywhere else in the world.</p>
 
-<p>The biggest problem with this is the ocean. The ocean has a very large heat capacity, it circulates very slowly, and interacts with the atmosphere only at the surface, while the deep remains rather isolated. So the temperature and salinity properties of the deep ocean can take thousands of years to adjust to new changes. According to one study <a href="https://journals.ametsoc.org/doi/abs/10.1175/1520-0442%281996%29009%3C1092%3AATEIAG%3E2.0.CO%3B2">it can take around 4000 years</a>.</p>
+<p>As a fun aside, Michiel and I made a video of the plate tectonic evolution from 64 Ma to present:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FR49W9YzqmQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
-<p>The normal procedure is to start the model with the best available observations of temperature and salinity, start simulating and then wait (usually a very long time) until it’s in equilibrium. When you’re dealing with the modern ocean, you  start from a position that is close to reality. I.e. Close to your intended outcome.</p>
+<p>This displays only modern day topography on top of plate tectonic motion - there are no reconstructions of actual paleoelevations or shorelines. But it’s fun to watch, and unlike many plate tectonic videos I’ve seen, it has a really high frame rate! The continents really look like they are gliding rather than iteratively jumping from frame to frame.</p>
 
-<p>This task is somewhat manageable when you are <em>only interested in simulating the ocean</em>. The ocean evolves slowly, so you can take large time steps in your simulation. The forcing at the surface is held fixed, which means that the surface can reach near-equilibrium quickly, and the deep ocean can adjust towards a target that is not changing.</p>
-
-<p>It gets more tricky when you couple the ocean to the atmosphere. The atmosphere by comparison moves very quickly, and needs much smaller time steps. So it takes a lot more resources to simulate the same block of time at the same resolution. You have to allow the ocean and atmosphere (and ice and land for that matter) to communicate with each other. You end up spending a lot more computing resources for each model year. Worse still, the ocean and atmopshere <em>feed back on each other</em>.</p>
-
-<p>An ocean-only simulation might spin up in 2000 years, but try the same with an atmosphere, and you might that after all that time and adjustment, the atmosphere then wants to be colder. Or warmer. Or unstable because your model wasn’t designed for the reality you’re trying to recreate.</p>
-
-<p>If you’re trying to simulate a climate from the deep past, this problem is compounded by the fact that you have very few observations to begin with. So you don’t know how close to reality you are when you begin, it’s hard to tell if you model is behaving well or not, and yet you know it will take a long time for your model to reach an equilibrium. You might run your model for 6 or 12 months, and then discover a problem, and have to start over.</p>
+<p>One could also dig a bit more into getting the missing seafloor depths, and focusing on the South Pole for instance. But it’s a nice start.</p>
 
   </div>
 

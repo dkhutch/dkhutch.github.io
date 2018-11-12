@@ -13,7 +13,7 @@ Rainsley, E., C. S. M. Turney, N. R. Golledge, J. M. Wilmshurst, M. S. McGlone, 
 
 ## Journal Articles
 
-de Boer, A. M., Pascual-Ahuir, E. G., Stevens, D. P., Chafik, L., **Hutchinson, D. K.**, Zhang, Q., Sime, L. C. and Willmott, A. J., 2018: Interconnectivity between volume transports through Arctic Straits, *J. Geophys. Res. Oc.*, **in press**.
+de Boer, A. M., Pascual-Ahuir, E. G., Stevens, D. P., Chafik, L., **Hutchinson, D. K.**, Zhang, Q., Sime, L. C. and Willmott, A. J., 2018: Interconnectivity between volume transports through Arctic Straits, *J. Geophys. Res. Oc.*, **in press**. doi: [10.1029/2018JC014320](http://dx.doi.org/10.1029/2018JC014320)
 
 **Hutchinson, D. K.**, A. M. de Boer, H. K. Coxall, R. Caballero, J. Nilsson and M. Baatsen, 2018: Climate sensitivity and meridional overturning circulation in the late Eocene using GFDL CM2.1, *Clim. Past*, **14**, 789-810. doi: [10.5194/cp-14-789-2018](https://doi.org/10.5194/cp-14-789-2018)
 

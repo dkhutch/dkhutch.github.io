@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Procrastination vs Busyness"
+date: 2018-12-05 13:00:00
+categories: blog issues
+---
+
+One of the reasons why I started this blog was an inspiration from an article on [research productivity](https://www.uow.edu.au/~bmartin/pubs/09aur.pdf). This presents evidence that writing quality and productivity is improved greatly by doing small chunks regularly. So each blog post is a small piece of work that allows me to test out some ideas without creating too much pressure or time drain. 
+
+The crux of this concept comes from a 1989 study called [Procrastination, busyness and bingeing](http://www.sciencedirect.com/science/article/pii/0005796789901447). That article resonates with me in a bitingly accurate way. It suggests that one of the warning signs of procrastination is to display one's busyness. And that the antidote to procrastination (at least when it comes to writing) is to work regularly in small chunks, with some socially enforced accountability. A really interesting finding for me was that of perceived priority. They found that the 'procrastinators' tended to report that writing was a **very high priority**, whereas those who made regular progress reported that writing was a **medium or low priority**. The implication is that part of the reason we procrastinate is because we build something up in our heads and make it seem scarier than it really is. Then once we start to make progress, we realise it's not that big a deal. 
+
+I must admit that I have struggled at times with procrastination during my career and studies, and at times I certainly have engaged in 'busyness displays'. But then again, I really am very busy a lot of the time, because I have a lot to do! So what's the difference between genuinely being fully occupied and thus having to delay something, and procrastinating? I suspect the answer is a bit subjective, and can only be properly answered through context and honestly assessing one's important goals. Procrastination is defined as a *needless and voluntarily delay* on an important goal or project, despite knowing that this delay is harming you. 
+
+A great resource I've found on this subject is a book called [Solving the procrastination puzzle](https://www.amazon.com/Solving-Procrastination-Puzzle-Concise-Strategies-ebook/dp/B00DGZKJ3Y), by Timothy Pychyl. It's a concise and well researched analysis, which presents some excellent strategies to combat procrastination. He coins some handy mantras, such as "I won't feel more like doing it tomorrow" and "Just get started", i.e. straight to the point and practical. 
+
+But aside from prescriptive strategies to solve the problem, it's also important to acknowledge that often, procrastination is caused by anxiety. Facing up to one's anxiety around a big and scary thing is often the hardest and most important challenge in solving the problem of procrastination. The strategy outlined above, writing in small chunks, is a form of *progressive densensitisation*. Repeated exposure in small doses helps to lower one's fear, making it easier over time. I think procrastination is something that I'll always be working on in some way or another, because it's a natural human tendency and is rooted in emotions that can never be exercised away. But I do think I can learn to manage it.

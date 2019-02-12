@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "It takes forever to spin up a climate model"
+date:   2018-02-09 15:00:00 +0100
+categories: blog paleoclimate
+---
+
+Climate models take thousands of years to equilibrate. This is a problem that has plagued ocean and climate modellers for decades, and there is no easy solution. To spin up a climate model means to initiate the ocean-atmosphere-land-ice system with some initial values, and then let it solve its physical equations of motion over and over until it reaches a steady state. 
+
+The biggest problem with this is the ocean. The ocean has a very large heat capacity, it circulates very slowly, and interacts with the atmosphere only at the surface, while the deep remains rather isolated. So the temperature and salinity properties of the deep ocean can take thousands of years to adjust to new changes. According to one study [it can take around 4000 years](https://journals.ametsoc.org/doi/abs/10.1175/1520-0442%281996%29009%3C1092%3AATEIAG%3E2.0.CO%3B2).
+
+The normal procedure is to start the model with the best available observations of temperature and salinity, start simulating and then wait (usually a very long time) until it's in equilibrium. When you're dealing with the modern ocean, you  start from a position that is close to reality. I.e. Close to your intended outcome. 
+
+This task is somewhat manageable when you are *only interested in simulating the ocean*. The ocean evolves slowly, so you can take large time steps in your simulation. The forcing at the surface is held fixed, which means that the surface can reach near-equilibrium quickly, and the deep ocean can adjust towards a target that is not changing. 
+
+It gets more tricky when you couple the ocean to the atmosphere. The atmosphere by comparison moves very quickly, and needs much smaller time steps. So it takes a lot more resources to simulate the same block of time at the same resolution. You have to allow the ocean and atmosphere (and ice and land for that matter) to communicate with each other. You end up spending a lot more computing resources for each model year. Worse still, the ocean and atmopshere *feed back on each other*. 
+
+An ocean-only simulation might spin up in 2000 years, but try the same with an atmosphere, and you might that after all that time and adjustment, the atmosphere then wants to be colder. Or warmer. Or unstable because your model wasn't designed for the reality you're trying to recreate. 
+
+If you're trying to simulate a climate from the deep past, this problem is compounded by the fact that you have very few observations to begin with. So you don't know how close to reality you are when you begin, it's hard to tell if you model is behaving well or not, and yet you know it will take a long time for your model to reach an equilibrium. You might run your model for 6 or 12 months, and then discover a problem, and have to start over. 

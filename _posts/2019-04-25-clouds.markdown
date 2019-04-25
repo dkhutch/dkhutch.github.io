@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Clouds in a warm climate"
+date: 2019-04-25 10:30:00
+categories: blog paleoclimate
+---
+
+The Eocene period, from 56 to 34 million years ago, had an exceptionally warm climate with basically no ice caps anywhere on Earth. Estimates of sea surface temperatures indicate that the tropics were at least 5 &degC warmer than today, while the high latitudes were about 15 to 20 &degC warmer than today. Major amplification of polar warming is found in all of the major temperature proxies, i.e. [organic compounds, oxygen isotopes](https://doi.org/10.1038/s41586-018-0272-2) and [magnesium/calcium](http://www.pnas.org/content/115/6/1174.abstract). Perhaps the most striking evidence of warmer poles is the presence of crocodiles and palm trees in North America and Europe. Crocodiles and palm trees are extremely intolerant to freezing temperatures, implying that the winter minimum temperatures in those regions must have been [at least 5 &degC](http://geology.gsapubs.org/content/23/11/1044.abstract), a staggering difference to today. 
+
+The fact that the tropics did not warm so much creates a problem for modelling this climate: a low temperature gradient from the equator to the pole is [difficult to simulate in state-of-the-art climate models](http://www.clim-past.net/7/603/2011/cp-7-603-2011.html). We can crank up the CO<sub>2</sub> in our models and achieve a much better fit to the high latitude proxies, but in doing so, we overcook the tropics. Similarly, if we match the tropical temperature proxies, our poles are freezing. So how do we warm the high latitudes without frying the equator?
+
+The answer that seems to be emerging is clouds. Even state-of-the-art climate models have a resolution (grid box size) that is way too coarse to be able to resolve clouds. So we have to take shortcuts and *parameterize* these effects. [A new study that explicitly resolves cloud convection](https://doi.org/10.1038/s41561-019-0310-1) suggests that when CO<sub>2</sub> reaches a critical threshold (estimated at 1200 ppm), there is a dramatic reduction in clouds, causing warming to spike. This kind of threshold response may explain the extreme warmth of the Eocene, but it must be noted that such incredibly high resolution models are restricted to small domains - they cannot simulate the entire global climate. 
+
+Another approach is to explicitly introduce a [cloud radiative feedback that applies only to the high latitudes](http://www.pnas.org/content/114/49/12888.abstract). This has the effect of (i) warming the high latitudes much more than the equator, and (ii) *weakening* the hydrological cycle, the opposite of what we'd normally expect in a warmer climate. This feedback has shown promising results in explaining the Pliocene climate (5.3 to 2.6 million years ago), which had roughly the same (400 ppm) CO<sub>2</sub>, but was significantly warmer than today. So far, this feedback is purely empirical: a more physically based parameterisation is still needed. 
+
+Cloud feedbacks are shaping to be of great interest to modelling past warm climates. It is early days in terms of modelling these processes, but it should be of high interest in future research.

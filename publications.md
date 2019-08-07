@@ -9,6 +9,8 @@ and [ResearcherID](http://www.researcherid.com/rid/F-4564-2016)
 
 ## Journal Articles
 
+13. **Hutchinson, D. K.**, H. K. Coxall, M. O’Regan, J. Nilsson, R. Caballero and A. M. de Boer, 2019: Arctic closure as a trigger for Atlantic overturning at the Eocene-Oligocene Transition, *Nature Communications*, **in press**, [preprint](https://www.dropbox.com/s/c2i391yrvp189ce/Arctic_Closure_EOT_NComms_accepted.pdf?dl=0).
+
 12. Rainsley, E., C. S. M. Turney, N. R. Golledge, J. M. Wilmshurst, M. S. McGlone, A. G. Hogg, B. Li, Z. A. Thomas, R. Roberts, R. T. Jones, J. G. Palmer, V. Flett, G. de Wet, **D. K. Hutchinson**, M. J. Lipson, P. Fenwick, B. R. Hines, U. Binetti, and C. J. Fogwill, 2019: Pleistocene glacial history of the New Zealand subantarctic islands, *Clim. Past*, **15**, doi: [10.5194/cp-15-423-2019](https://doi.org/10.5194/cp-15-423-2019)
 
 11. de Boer, A. M., E. G. Pascual-Ahuir, D. P. Stevens, L. Chafik, **D. K. Hutchinson**, Q. Zhang, L. C. Sime and A. J. Willmott, 2018: Interconnectivity between volume transports through Arctic Straits, *J. Geophys. Res. Oc.*, **123**, 8714-8729. doi: [10.1029/2018JC014320](http://dx.doi.org/10.1029/2018JC014320)

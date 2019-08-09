@@ -7,8 +7,8 @@ permalink: /cv/
 ## Current Position
 
 **2019-2022:** Researcher, FORMAS mobility grant: *Climate Impacts of Paleogeography at the Eocene-Oligocene Transition*, P.I. David Hutchinson
-**2017-2019:** Researcher, VR Grant: *North Atlantic Deep Water formation initiated by the closure of the Barents Sea Seaway – a potential trigger for Antarctic glaciation*, P.I. Agatha de Boer.
-**2015-2017:** Postdoctoral researcher, paleoclimate modelling 
+**2017-2019:** Researcher, VR Grant: *North Atlantic Deep Water formation initiated by the closure of the Barents Sea Seaway – a potential trigger for Antarctic glaciation*, P.I. Agatha de Boer
+**2015-2017:** Postdoctoral researcher, paleoclimate modelling, Bolin Centre for Climate Research
 Department of Geological Sciences, Stockholm University
 
 ## Education

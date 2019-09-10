@@ -4,14 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
 Links to my [Google Scholar Profile](https://scholar.google.se/citations?user=AuF7B88AAAAJ&hl=en&oi=sra)
 and [ResearcherID](http://www.researcherid.com/rid/F-4564-2016)
 
 ## Journal Articles
 
 13. **Hutchinson, D. K.**, H. K. Coxall, M. O’Regan, J. Nilsson, R. Caballero and A. M. de Boer, 2019: Arctic closure as a trigger for Atlantic overturning at the Eocene-Oligocene Transition, *Nature Communications*, **10**, 3797, doi: [10.1038/s41467-019-11828-z](https://doi.org/10.1038/s41467-019-11828-z), [press release](https://www.su.se/english/research/profile-areas/climate-seas-and-environment/switching-on-the-atlantic-heat-pump-1.448304), [Swedish press release](https://www.su.se/forskning/profilomr%C3%A5den/klimat-hav-och-milj%C3%B6/s%C3%A5-slogs-nordatlantens-v%C3%A4rmepump-p%C3%A5-1.448318), [SVT news story](https://www.svt.se/nyheter/vetenskap/sa-startade-golfstrommen-och-sa-kan-den-avstanna), 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="65290049" />
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="65290049" /div>
 
 12. Rainsley, E., C. S. M. Turney, N. R. Golledge, J. M. Wilmshurst, M. S. McGlone, A. G. Hogg, B. Li, Z. A. Thomas, R. Roberts, R. T. Jones, J. G. Palmer, V. Flett, G. de Wet, **D. K. Hutchinson**, M. J. Lipson, P. Fenwick, B. R. Hines, U. Binetti, and C. J. Fogwill, 2019: Pleistocene glacial history of the New Zealand subantarctic islands, *Clim. Past*, **15**, 423-448, doi: [10.5194/cp-15-423-2019](https://doi.org/10.5194/cp-15-423-2019)
 

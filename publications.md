@@ -7,6 +7,12 @@ permalink: /publications/
 Links to my [Google Scholar Profile](https://scholar.google.se/citations?user=AuF7B88AAAAJ&hl=en&oi=sra)
 and [ResearcherID](http://www.researcherid.com/rid/F-4564-2016)
 
+## Articles in Review
+
+<!-- **Hutchinson, D. K.**, H. K. Coxall, D. J. Lunt, M. Steinthorsdottir, A. M. de Boer, M. Baatsen, A. von der Heydt, M. Huber, A. T. Kennedy-Asser, L. Kunzmann, J.-B. Ladant, C. H. Lear, K. Moraweck, P. N. Pearson, E. Piga, M. J. Pound, U. Salzmann, H. D. Scher, W. P. Sijp, K. K. Śliwińska, P. A. Wilson, and Z. Zhang, 2020: The Eocene-Oligocene transition: a review of marine and terrestrial proxy data, models and model-data comparisons. *Clim. Past Discussions*. -->
+
+Lunt, D. J., F. Bragg, W.-L. Chan, **D. K. Hutchinson**, J.-B. Ladant, I. Niezgodzki, S. Steinig, Z. Zhang, J. Zhu, A. Abe-Ouchi, A. M. de Boer, H. K. Coxall, Y. Donnadieu, G. Knorr, P. M. Langebroek, G. Lohmann, C. J. Poulsen, P. Sepulchre, J. Tierney, P. J. Valdes, T. Dunkley Jones, C. J. Hollis, M. Huber, and B. L. Otto-Bliesner, 2020: DeepMIP: Model intercomparison of early Eocene climatic optimum (EECO) large-scale climate features and comparison with proxy data. *Clim. Past Discussions*, doi: [10.5194/cp-2019-149](https://doi.org/10.5194/cp-2019-149)
+
 ## Journal Articles
 
 13. **Hutchinson, D. K.**, H. K. Coxall, M. O’Regan, J. Nilsson, R. Caballero and A. M. de Boer, 2019: Arctic closure as a trigger for Atlantic overturning at the Eocene-Oligocene Transition, *Nature Communications*, **10**, 3797, doi: [10.1038/s41467-019-11828-z](https://doi.org/10.1038/s41467-019-11828-z), [press release](https://www.su.se/english/research/profile-areas/climate-seas-and-environment/switching-on-the-atlantic-heat-pump-1.448304), [Swedish press release](https://www.su.se/forskning/profilomr%C3%A5den/klimat-hav-och-milj%C3%B6/s%C3%A5-slogs-nordatlantens-v%C3%A4rmepump-p%C3%A5-1.448318), [SVT news story](https://www.svt.se/nyheter/vetenskap/sa-startade-golfstrommen-och-sa-kan-den-avstanna)

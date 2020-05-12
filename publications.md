@@ -56,5 +56,7 @@ Costelloe, M. T., I. C. Roach and **D. K. Hutchinson**, 2010: Paterson AEM surve
 
 Roach, I. C., K. F. Cassidy, M. T. Costello, K. Czarnota, P. Duerden, **D. K. Hutchinson**, D. Huston, S. Jaireth, S. F. Liu, D. Maidment, D. Miggins, C. Sorensen, A. J. Whitaker, J. R. Wilfrod, N. C. Williams, 2010: Geological and energy implications of the Paterson Province airborne electromagnetic (AEM) survey, Western Australia. *Geoscience Australia Record*, **2010/12**. [Online article](https://www.researchgate.net/profile/Ian_Roach/publication/280312587_Geological_and_energy_implications_of_the_Paterson_Province_airborne_electromagnetic_AEM_survey_Western_Australia/links/55b1d3c808aec0e5f4312200.pdf)
 
-Geoscience Australia and ABARE, 2010: Australian Energy Resource Assessment, Canberra. [Title page](https://www.ga.gov.au/products/servlet/controller?event=GEOCAT_DETAILS&catno=70142)
+Geoscience Australia and ABARE, 2010: Australian Energy Resource Assessment, Canberra. Authors: Jaques, L., Bradshaw, M., Carson, L., Budd, A., Huleatt, M., **Hutchinson, D.**, Lambert, I., LePoidevin, S., McKay, A., Miezitis, Y., Sait, R., Zhu, R., Hughes, M., Ball, A., Cuevas-Cubria, C., Copeland, A., Hogan, L., Lampard, M., Maliyasena, A., New, R., Penney, K., Petchey, R., McCallum, R., Sandu, S., Warr, S. [Title page](https://www.ga.gov.au/products/servlet/controller?event=GEOCAT_DETAILS&catno=70142)
+
+
 

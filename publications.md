@@ -9,7 +9,7 @@ and [ResearcherID](http://www.researcherid.com/rid/F-4564-2016)
 
 ## Articles in Review
 
-<!-- **Hutchinson, D. K.**, H. K. Coxall, D. J. Lunt, M. Steinthorsdottir, A. M. de Boer, M. Baatsen, A. von der Heydt, M. Huber, A. T. Kennedy-Asser, L. Kunzmann, J.-B. Ladant, C. H. Lear, K. Moraweck, P. N. Pearson, E. Piga, M. J. Pound, U. Salzmann, H. D. Scher, W. P. Sijp, K. K. Śliwińska, P. A. Wilson, and Z. Zhang, 2020: The Eocene-Oligocene transition: a review of marine and terrestrial proxy data, models and model-data comparisons. *Clim. Past Discussions*. -->
+**Hutchinson, D. K.**, H. K. Coxall, D. J. Lunt, M. Steinthorsdottir, A. M. de Boer, M. Baatsen, A. von der Heydt, M. Huber, A. T. Kennedy-Asser, L. Kunzmann, J.-B. Ladant, C. H. Lear, K. Moraweck, P. N. Pearson, E. Piga, M. J. Pound, U. Salzmann, H. D. Scher, W. P. Sijp, K. K. Śliwińska, P. A. Wilson, and Z. Zhang, 2020: The Eocene-Oligocene transition: a review of marine and terrestrial proxy data, models and model-data comparisons. *Clim. Past Discussions*, submitted.
 
 Lunt, D. J., F. Bragg, W.-L. Chan, **D. K. Hutchinson**, J.-B. Ladant, I. Niezgodzki, S. Steinig, Z. Zhang, J. Zhu, A. Abe-Ouchi, A. M. de Boer, H. K. Coxall, Y. Donnadieu, G. Knorr, P. M. Langebroek, G. Lohmann, C. J. Poulsen, P. Sepulchre, J. Tierney, P. J. Valdes, T. Dunkley Jones, C. J. Hollis, M. Huber, and B. L. Otto-Bliesner, 2020: DeepMIP: Model intercomparison of early Eocene climatic optimum (EECO) large-scale climate features and comparison with proxy data. *Clim. Past Discussions*, doi: [10.5194/cp-2019-149](https://doi.org/10.5194/cp-2019-149)
 

@@ -15,7 +15,7 @@ D. J. Lunt, F. Bragg, W.-L. Chan, **D. K. Hutchinson**, J.-B. Ladant, I. Niezgod
 
 ## Journal Articles
 
-14. G. N. Inglis, F. Bragg, N. Burls, M. Cramwinckel, D. Evans, G. L. Foster, M. Huber, D. J. Lunt, N. Siler, S. Steinig, J. E. Tierney, R. Wilkinson, E. Anagnostou, A. De Boer, T. Dunkley Jones, K. Edgar, C. J. Hollis, **D. K. Hutchinson**, and R. D. Pancost, 2020: Global mean surface temperature and climate sensitivity of the EECO, PETM and latest Paleocene, *Clim. Past*, in press.
+14. G. N. Inglis, F. Bragg, N. Burls, M. Cramwinckel, D. Evans, G. L. Foster, M. Huber, D. J. Lunt, N. Siler, S. Steinig, J. E. Tierney, R. Wilkinson, E. Anagnostou, A. De Boer, T. Dunkley Jones, K. Edgar, C. J. Hollis, **D. K. Hutchinson**, and R. D. Pancost, 2020: Global mean surface temperature and climate sensitivity of the EECO, PETM and latest Paleocene, *Clim. Past*, **16**, 1953-1968, doi: [10.5194/cp-16-1953-2020](https://doi.org/10.5194/cp-16-1953-2020)
 
 13. **D. K. Hutchinson**, H. K. Coxall, M. O’Regan, J. Nilsson, R. Caballero and A. M. de Boer, 2019: Arctic closure as a trigger for Atlantic overturning at the Eocene-Oligocene Transition, *Nature Communications*, **10**, 3797, doi: [10.1038/s41467-019-11828-z](https://doi.org/10.1038/s41467-019-11828-z), [press release](https://www.su.se/english/research/profile-areas/climate-seas-and-environment/switching-on-the-atlantic-heat-pump-1.448304), [Swedish press release](https://www.su.se/forskning/profilomr%C3%A5den/klimat-hav-och-milj%C3%B6/s%C3%A5-slogs-nordatlantens-v%C3%A4rmepump-p%C3%A5-1.448318), [SVT news story](https://www.svt.se/nyheter/vetenskap/sa-startade-golfstrommen-och-sa-kan-den-avstanna)
 

@@ -11,9 +11,9 @@ and [ResearcherID](http://www.researcherid.com/rid/F-4564-2016)
 
 **D. K. Hutchinson**, H. K. Coxall, D. J. Lunt, M. Steinthorsdottir, A. M. de Boer, M. Baatsen, A. von der Heydt, M. Huber, A. T. Kennedy-Asser, L. Kunzmann, J.-B. Ladant, C. H. Lear, K. Moraweck, P. N. Pearson, E. Piga, M. J. Pound, U. Salzmann, H. D. Scher, W. P. Sijp, K. K. Śliwińska, P. A. Wilson, and Z. Zhang, 2020: The Eocene-Oligocene transition: a review of marine and terrestrial proxy data, models and model-data comparisons. *Clim. Past Discussions*, doi: [10.5194/cp-2020-68](https://doi.org/10.5194/cp-2020-68)
 
-D. J. Lunt, F. Bragg, W.-L. Chan, **D. K. Hutchinson**, J.-B. Ladant, I. Niezgodzki, S. Steinig, Z. Zhang, J. Zhu, A. Abe-Ouchi, A. M. de Boer, H. K. Coxall, Y. Donnadieu, G. Knorr, P. M. Langebroek, G. Lohmann, C. J. Poulsen, P. Sepulchre, J. Tierney, P. J. Valdes, T. Dunkley Jones, C. J. Hollis, M. Huber, and B. L. Otto-Bliesner, 2020: DeepMIP: Model intercomparison of early Eocene climatic optimum (EECO) large-scale climate features and comparison with proxy data. *Clim. Past Discussions*, doi: [10.5194/cp-2019-149](https://doi.org/10.5194/cp-2019-149)
-
 ## Journal Articles
+
+15. D. J. Lunt, F. Bragg, W.-L. Chan, **D. K. Hutchinson**, P. Morozova, J.-B. Ladant, I. Niezgodzki, S. Steinig, Z. Zhang, J. Zhu, A. Abe-Ouchi, A. M. de Boer, H. K. Coxall, Y. Donnadieu, G. Foster, G. N. Inglis, G. Knorr, P. M. Langebroek, C. H. Lear, G. Lohmann, C. J. Poulsen, P. Sepulchre, J. Tierney, P. J. Valdes, T. Dunkley Jones, C. J. Hollis, M. Huber, and B. L. Otto-Bliesner, 2020: DeepMIP: Model intercomparison of early Eocene climatic optimum (EECO) large-scale climate features and comparison with proxy data. *Clim. Past*, in press, doi: [10.5194/cp-2019-149](https://doi.org/10.5194/cp-2019-149)
 
 14. G. N. Inglis, F. Bragg, N. Burls, M. Cramwinckel, D. Evans, G. L. Foster, M. Huber, D. J. Lunt, N. Siler, S. Steinig, J. E. Tierney, R. Wilkinson, E. Anagnostou, A. De Boer, T. Dunkley Jones, K. Edgar, C. J. Hollis, **D. K. Hutchinson**, and R. D. Pancost, 2020: Global mean surface temperature and climate sensitivity of the EECO, PETM and latest Paleocene, *Clim. Past*, **16**, 1953-1968, doi: [10.5194/cp-16-1953-2020](https://doi.org/10.5194/cp-16-1953-2020)
 

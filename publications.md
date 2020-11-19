@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 Links to my [Google Scholar Profile](https://scholar.google.se/citations?user=AuF7B88AAAAJ&hl=en&oi=sra)
-and [ResearcherID](http://www.researcherid.com/rid/F-4564-2016)
+and [Publons profile](https://publons.com/researcher/1497159/david-hutchinson/)
 
 <!-- ## Articles in Review -->
 
